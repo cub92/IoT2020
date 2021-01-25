@@ -1,12 +1,12 @@
 # 課題である各自の提案を保存するリポジトリの一覧
 - 木村：
-- 小松：
+- 小松：https://github.com/Lunaty1341/Meteorological_observation_System
 - 佐々木：https://github.com/ikokamaru46/env_clock.git
 - 杉谷：https://github.com/ryoinn0801/IoT2020-misson.git
-- 田村：
-- 中野：
+- 田村：https://github.com/namesin/Timer.git
+- 中野：https://github.com/yuki-045679/Stopwatch.git
 - 細川：
-- 浅野：
+- 浅野：https://github.com/swdnktn/tenki
 - 磯邉：
 - 春日：https://github.com/hiro9474/my_M5stick_IOT.git
 - 木本：
