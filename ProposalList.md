@@ -1,7 +1,7 @@
 # 課題である各自の提案を保存するリポジトリの一覧
 - 木村：
-- 小松：https://github.com/ikokamaru46/env_clock.git
-- 佐々木：
+- 小松：
+- 佐々木：https://github.com/ikokamaru46/env_clock.git
 - 杉谷：https://github.com/ryoinn0801/IoT2020-misson.git
 - 田村：
 - 中野：
