@@ -10,8 +10,8 @@
 - 磯邉：
 - 春日：https://github.com/hiro9474/my_M5stick_IOT.git
 - 木本：
-- 土居：
+- 土居：https://github.com/splash-ryo/M5stopwatch.git
 - 長田：https://github.com/peechan/Environmental-measuring-machine
-- 中原：
+- 中原：https://github.com/HnR-YUKIMURA/oto.git
 - 彭：
 - 杉林：https://github.com/cub92/MyGolgo
