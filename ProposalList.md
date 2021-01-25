@@ -8,7 +8,7 @@
 - 細川：
 - 浅野：
 - 磯邉：
-- 春日：
+- 春日：https://github.com/hiro9474/my_M5stick_IOT.git
 - 木本：
 - 土居：
 - 長田：
