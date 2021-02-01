@@ -5,11 +5,11 @@
 - 杉谷：https://github.com/ryoinn0801/IoT2020-misson.git
 - 田村：https://github.com/namesin/Timer.git
 - 中野：https://github.com/yuki-045679/Stopwatch.git
-- 細川：
+- 細川：https://github.com/snowdorp/mytimer
 - 浅野：https://github.com/swdnktn/tenki
 - 磯邉：
 - 春日：https://github.com/hiro9474/my_M5stick_IOT.git
-- 木本：
+- 木本：https://github.com/KimotoS/Sisaku2021-
 - 土居：https://github.com/splash-ryo/M5stopwatch.git
 - 長田：https://github.com/peechan/Environmental-measuring-machine
 - 中原：https://github.com/HnR-YUKIMURA/oto.git
