@@ -13,5 +13,5 @@
 - 土居：https://github.com/splash-ryo/M5stopwatch.git
 - 長田：https://github.com/peechan/Environmental-measuring-machine
 - 中原：https://github.com/HnR-YUKIMURA/oto.git
-- 彭：
+- 彭：https://github.com/pb13144/IoT2020-misson
 - 杉林：https://github.com/cub92/MyGolgo
